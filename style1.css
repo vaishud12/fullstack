@@ -1,0 +1,17 @@
+body{
+    background-color: seagreen;
+}
+
+input[type="text"]{
+    width: 100%;
+
+}
+
+input[type="number"]{
+    width: 50%;
+}
+
+input[type="email"]{
+    width: 30%;
+
+}

@@ -1,0 +1,19 @@
+button {
+    margin: 150px;
+    background-color:purple;
+    border: 2px solid purple;
+    color:red;
+    border-radius: 6px;
+    padding: 10px;
+}
+button:hover{
+    background-color: blue;
+}
+
+button:focus{
+    background-color: green;
+}
+
+button:disabled{
+    cursor: not-allowed;
+}

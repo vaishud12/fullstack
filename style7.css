@@ -1,0 +1,25 @@
+body {
+    background-color: green;
+}
+/*
+small -> 0 - 767px
+tablet -> 768px
+laptop -> 1020px
+PC -> 1400px
+initial-scale=zoom
+meta=provide extra info 
+*/
+
+@media (min-width: 768px) {
+    body {
+        background-color: blue;
+    }
+}
+
+@media (min-width: 1020px) {
+    body {
+        background-color: red;
+    }
+
+}
+
